@@ -1,4 +1,4 @@
-- 👋 Hi, Segun Nuhu Olawale
+- 👋 Hi! I'm Segun Nuhu Olawale.
 - 👀 I’m a Blockchain Technology Community Manager with a developing knowledge in Frontend Development.
 - 🌱 I’m currently on a journey to keep learning, bettering and improving my skills within the tech space in other to add value to whatsoever organization, I find myself in.
 - 💞️ I’m looking to collaborate on any innovating project, and also I'm very passionate about the Blockchain tech.
